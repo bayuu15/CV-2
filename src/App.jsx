@@ -1,16 +1,17 @@
 import { useState } from 'react'
 import Header from './Components/Header'
 import Profile from './Components/Profile'
-import AboutMe from './Components/AboutMe' 
+import Footer from './Components/Footer'
+
 
 const App = () => {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <Header />
-      <Profile />
-      <AboutMe />
+      <Header   />
+      <Profile  />
+      <Footer   />
       
     </>
   )
