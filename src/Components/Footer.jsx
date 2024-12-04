@@ -15,7 +15,7 @@ const Footer = () => {
         <p>
           &copy; Copyright By <span>...</span>
         </p>
-        <div className="sosial-footer ml-44 flex  gap-9">
+        <div className="sosial-footer ml-16 flex  gap-9">
           <div className="flex ">
             <svg
               class="h-8 w-8 text-black-500"
